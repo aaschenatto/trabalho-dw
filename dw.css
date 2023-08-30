@@ -1,0 +1,66 @@
+.botao{
+    border-radius: 15vw;
+    margin-top: 5vw;
+    background-color: rgb(10, 113, 182);
+    color: white;
+    border-style: none;
+    height: 4vw;
+    width: 14vw;
+    margin-right: 3vw;
+    margin-left: 10vw;
+    font-size: 1.5vw;
+}
+.logo{
+    margin-top: 0pt;
+    float: left;
+    width: 11%;
+    height: 90%;
+}
+header{
+    background-color: rgb(15, 15, 139);
+    height: 15vw;
+}
+body{
+    margin: 0%;
+    background-color: rgb(217, 217, 217);
+}
+.titulo{
+    color: rgb(15, 15, 139);
+    font-size: 3.5vw;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 3vw;
+}
+.texto{
+    color: rgb(15, 15, 139);
+    font-family: Helvetica, sans-serif;
+    width: 35vw;
+    text-align: center;
+    font-size: 2vw;
+    margin-left: 9vw;
+    display: inline-block;
+}
+.imagem{
+    display: inline-block;
+    margin-left: 9vw;
+    width: 35vw;
+    height: 30vw;
+    border-radius: 2vw;
+}
+.titulo2{
+    color: rgb(15, 15, 139);
+    font-size: 3.5vw;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 3vw;
+}
+.produtos{
+    border-radius: 2vw;
+    margin-left: 12vw;
+    margin-top: 5vw;
+}
+.x{
+    border-radius: 2vw;
+    margin-left: 12vw;
+    margin-top: 5vw;
+}
